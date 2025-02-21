@@ -1,4 +1,4 @@
-🔊 <h1>Sonar Rock vs Mine Prediction<h1>
+🔊 <h1>Sonar Rock vs Mine Prediction</h1>
 📌 Project Overview
 This project builds a machine learning model using Logistic Regression to classify sonar signals as either rocks 🪨 or mines 💣, based on how sonar waves reflect off these objects.
 
